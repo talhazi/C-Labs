@@ -6,14 +6,6 @@ Most of the labs are written in C, while some of them in x86 Assembly in Linux U
 I used makefiles to compile the code and used Visual Studio Code as a development enviroment.
 
 
-## The major things we did in the course:
-1. Intro to Typescript as a functional programming language
-1. Interpreter for a sub-language of Scheme using Typescript
-1. Type checker and type inference systems for Scheme
-1. Control structures in JavaScript/Scheme
-1. Logic programming, interpreter for sub-language of prolog using Scheme
-
-
 ## The Assignments
 [LAB1 - Rudimentary C programming, make files](https://www.cs.bgu.ac.il/~caspl212/Lab1/Tasks)
 
