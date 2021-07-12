@@ -6,7 +6,7 @@ Most of the labs are written in C, while some of them in x86 Assembly in Linux U
 I used makefiles to compile the code and used Visual Studio Code as a development enviroment.
 
 
-## The Assignments
+## The Labs
 [LAB1 - Rudimentary C programming, make files](https://www.cs.bgu.ac.il/~caspl212/Lab1/Tasks)
 
 [LAB2 - C programming - pointers, function pointers and simple data structures](https://www.cs.bgu.ac.il/~caspl212/Lab2/Tasks)
